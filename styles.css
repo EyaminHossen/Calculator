@@ -28,12 +28,10 @@ input{
 }
 .AC{ 
     padding:6px 32px;
-    color: orange;
+    color: #ff6a00;
     background-color: white;
 }
-.equal{
-    padding: 30px 74px;
-}
+
 .plas{
     padding:6px 12px;
     margin-left: -1px;
@@ -43,7 +41,7 @@ input{
     height: 182px;
     width: 282px;
     margin-left: 10px;
-    border-color: orange;
+    border-color: #ff6a00;
     border-radius: 10px;
 }
 .color{
@@ -51,8 +49,31 @@ input{
     border-radius: 10px;
 }
 .oblik{
-    color: orange;
-    padding: 6px 13px;
-    margin-left: -4px;
+    color: #ff6a00;
+    padding: 6px 28px;
+    margin-left: 9px;
     background-color: white;
+}
+.g{
+    color:#ff6a00;
+    background-color: white;
+}
+.equl{
+    background-color: #ff6a00;
+    color: white;
+    padding: 6px 74px;
+
+}
+.position{
+    margin: 10px;
+    padding: 6px 16px;
+}
+.position1{
+    padding:6px 19px ;
+    margin: 10px;
+}
+.m{
+    color:#ff6a00;
+    background-color: white;
+    padding: 6px 29px;
 }
