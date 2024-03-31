@@ -17,16 +17,17 @@ body{
     margin: 9px;
 }
 input{
+    font-size: 28px;
     text-align: right;
-    padding: 12px 30px;
-    margin: 10px;
+    padding: 6px 26px;
+    margin: 10px 8px;
     border: none;
     border-radius: 10px;
     background-color: white;
     cursor: pointer;
 }
 .AC{ 
-    padding: 12px 26px;
+    padding:6px 32px;
     color: orange;
     background-color: white;
 }
@@ -34,18 +35,24 @@ input{
     padding: 30px 74px;
 }
 .plas{
-    padding:12px 26px;
+    padding:6px 12px;
     margin-left: -1px;
 }
 #Display{
     font-size: 25px;
     height: 182px;
     width: 282px;
-    margin-left: 5px;
+    margin-left: 10px;
     border-color: orange;
     border-radius: 10px;
 }
 .color{
     background-color: #00000012;
     border-radius: 10px;
+}
+.oblik{
+    color: orange;
+    padding: 6px 13px;
+    margin-left: -4px;
+    background-color: white;
 }
